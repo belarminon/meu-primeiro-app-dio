@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="hello" translatable="false">Olá</string>
+    <string name="the_app" translatable="false">O app</string>
+    <string name="is_in" translatable="false">está em</string>
+    <string name="language" translatable="false">Português Brasileiro</string>
 </resources>

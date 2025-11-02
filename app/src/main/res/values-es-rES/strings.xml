@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiPrimerAppDio</string>
+    <string name="hello">Hola</string>
+    <string name="the_app">La aplicación</string>
+    <string name="is_in">está en</string>
+    <string name="language">español</string>
+</resources>
